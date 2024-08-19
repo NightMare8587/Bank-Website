@@ -1,0 +1,28 @@
+#navbar-main {
+    background-color: aqua;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h4 {
+    font-size: 24px;
+}
+
+#nav-btn {
+    font-size: 20px;
+    padding: 10px;
+    background: none;
+    border-color: red;
+}
+
+#nav-btn:hover{
+    color: red;
+}
